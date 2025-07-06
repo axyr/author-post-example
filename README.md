@@ -6,6 +6,8 @@
 git clone git@github.com:axyr/author-post-example.git
 cd author-post-example
 composer install
+cp .env.example .env
+php artisan key:generate
 php artisan test
 ```
 
