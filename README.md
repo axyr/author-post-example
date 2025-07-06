@@ -2,6 +2,8 @@
 
 ## Installation
 
+> This installation asumes PHP 8.2 and composer is installed.
+
 ```sh
 git clone git@github.com:axyr/author-post-example.git
 cd author-post-example
